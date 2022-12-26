@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shehab Soliman
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning webscraping and data wrangling
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: via LinkedIn, or Email
 
 <!---
